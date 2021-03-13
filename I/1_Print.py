@@ -7,4 +7,5 @@
 print("hello world")
 print("Day 1 - Python print function")
 print("The function is declared like get_type_hints")
-print("print("what to print")")
+print('print("what to print")')
+
