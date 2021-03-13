@@ -22,3 +22,5 @@ print("Day1 - string manipulation")
 print('string concatenation is done with "+" sign')
 print('eg'+""+print("Hello world"))
 print("New Lines can be created with backslash")
+
+
