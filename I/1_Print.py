@@ -9,3 +9,9 @@ print("Day 1 - Python print function")
 print("The function is declared like get_type_hints")
 print('print("what to print")')
 
+# exercise 2
+# debugging exercise
+# print(Day1 - string manipulation)
+# print(string concatenation is done with "+" sign)
+#     print('eg' print("Hello world"))
+# print(New Lines can be created with backslash)
