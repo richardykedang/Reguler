@@ -16,11 +16,16 @@ print('print("what to print")')
 #     print('eg' print("Hello world"))
 # print(New Lines can be created with backslash)
 
-print("exercise 2")
-print("debugging exercise")
-print("Day1 - string manipulation")
-print('string concatenation is done with "+" sign')
-print('eg'+""+print("Hello world"))
-print("New Lines can be created with backslash")
+# print("exercise 2")
+# print("debugging exercise")
+# print("Day1 - string manipulation")
+# print('string concatenation is done with "+" sign')
+# print('eg'+""+print("Hello world"))
+# print("New Lines can be created with backslash")
 
+# numbers = []
 
+for i in range(3):
+    x = float(input("Enter number: "))
+    # numbers.append(input)
+    # print(i)
