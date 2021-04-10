@@ -23,12 +23,25 @@
 #     sum = sum + i
 # print(sum)
 
-angka = 0
-sum = 0
-while( angka < 5):
-    sum = sum + angka
-    # print(angka)
-    angka += 1
-print(sum)
+# angka = 0
+# sum = 0
+# while( angka < 5):
+#     sum = sum + angka
+#     # print(angka)
+#     angka += 1
+# print(sum)
+
+# listing = ['1','2','3']
+# del listing[0]
+# print(listing)
+
+tes= [
+	{'name': 'udin','age': 14},
+	{'name': 'udin', 'age': 14},
+]
+
+print(tes.name)
+
+
 
 
