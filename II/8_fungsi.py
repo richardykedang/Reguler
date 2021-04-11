@@ -19,8 +19,24 @@
 
 # print(avg([5,5,5,2]))
 
-def grettings(nama="udin"):
-    print(f"Halo Apa Kabar {nama}")
+# def grettings(nama="udin"):
+#     print(f"Halo Apa Kabar {nama}")
 
 
-grettings()
+# grettings()
+
+def prime_checker(number):
+    is_prime = True
+    for i in range(2, number):
+        # print(i)
+        if number % i == 0:
+            is_prime = False
+    if is_prime:
+        print("It's prime number")
+    else:
+        print("Not prime number")
+
+
+n = int(input("Check Number : " ))
+prime_checker(number=n)
+
